@@ -1,4 +1,4 @@
-# MO-IT101-Group 6| Section : A1102 | Version 2 | Basic Payroll System | Client : MotorPH
+# MO-IT101-Ephraim Elayda| Section : S1103 | Version 2 | Basic Payroll System | Client : MotorPH
 
 A Basic Payroll System.
 
